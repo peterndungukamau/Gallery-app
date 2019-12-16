@@ -68,6 +68,7 @@ User stories
   * Search for different categories of photos. (ie. Travel, Food)
   * Copy a link to the photo to share with my friends.
  View photos based on the location they were taken.
+ 
 # Bugs
 There are no known bugs at the moment
 
